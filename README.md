@@ -1,21 +1,17 @@
-### Olá pessoas! Eu sou o Vitor 👋
+### Olá pessoas! Eu sou o Vitor👋
 
-<!--
-**vitorvitor07/vitorvitor07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 Atualmente trabalho como suporte técnico na Krolik
+- 🌱 Estou tendo em foque nos meus estudos em NodeJS, para a criação de APIs e implantação
+- 📘 Estudante no terceiro período de Análise e Desenvolvimento de Sistemas
+- 🥰 Apaixonado por tecnolia em geral
 
-Here are some ideas to get you started:
+<h1></h1>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-<p>Atualmente sou estudante de Análise e Desenvolvimento de Sistemas no 3° período, no momento meus estudos estão sendo voltados para NodeJS, visando construção de APIs para integrações usadas em meu atual trabalho</p>
-
-<h3>Tecnologias: </h3>
-<h1>-----------------------------------------------------------------</h1>
+<div style="display: inline_block"><br>
+  <img align="center" alt="Vitor-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
+  <img align="center" alt="Vitor-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">   
+  <img align="center" alt="Vitor-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Vitor-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Vitor-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">  
+  <img align="center" alt="Vitor-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"> 
+</div>
