@@ -3,10 +3,8 @@
 - 🔭 Atualmente trabalho como suporte técnico na Krolik
 - 🌱 Estou tendo em foque nos meus estudos em NodeJS, para a criação de APIs e implantação
 - 📘 Estudante no terceiro período de Análise e Desenvolvimento de Sistemas
-- 🥰 Apaixonado por tecnolia em geral
-
+- 🥰 Apaixonado por tecnologia 
 <h1></h1>
-
 <div style="display: inline_block"><br>
   <img align="center" alt="Vitor-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
   <img align="center" alt="Vitor-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">   
