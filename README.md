@@ -15,4 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<p>Atualmente sou estudante de Análise e Desenvolvimento de Sistemas, atualmente possuo conhecimento em HTML, CSS, JS, MongoDB, tendo enfoque NodeJS ☺️</p>
+<p>Atualmente sou estudante de Análise e Desenvolvimento de Sistemas no 3° período, no momento meus estudos estão sendo voltados para NodeJS, visando construção de APIs para integrações usadas em meu atual trabalho</p>
+
+<h3>Tecnologias: </h3>
+<h1>-----------------------------------------------------------------</h1>
