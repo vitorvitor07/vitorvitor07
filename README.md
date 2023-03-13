@@ -1,4 +1,4 @@
-### Hi there 👋
+### Olá pessoas! Eu sou o Vitor 👋
 
 <!--
 **vitorvitor07/vitorvitor07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<p>Atualmente sou estudante de Análise e Desenvolvimento de Sistemas, atualmente possuo conhecimento em HTML, CSS, JS, MongoDB, tendo enfoque NodeJS ☺️</p>
