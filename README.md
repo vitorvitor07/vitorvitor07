@@ -1,6 +1,6 @@
 ### Olá pessoas! Eu sou o Vitor👨‍💻
 
-- 🔭 Atualmente trabalho como suporte técnico na Krolik
+- 🔭 Atualmente trabalho como suporte técnico e programador na Krolik
 - 🌱 Estou tendo em foque nos meus estudos em NodeJS, para a criação de APIs
 - 📘 Estudante no terceiro período de Análise e Desenvolvimento de Sistemas
 - 🥰 Apaixonado por tecnologia 
