@@ -1,9 +1,9 @@
 ### Olá pessoas! Eu sou o Vitor👨‍💻
 
-- 🔭 Atualmente trabalho como suporte técnico e programador na Krolik
+- 🔭 Atualmente trabalho como programador full stack na Krolik
 - 🌱 Estou tendo em foque nos meus estudos em NodeJS, para a criação de APIs
-- 📘 Estudante no terceiro período de Análise e Desenvolvimento de Sistemas
-- 🥰 Apaixonado por tecnologia 
+- 📘 Estudante no quarto período de Análise e Desenvolvimento de Sistemas
+- 🥰 Apaixonado por tecnologia
 <h1></h1>
 <div style="display: inline_block"><br>
   <img align="center" alt="Vitor-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
