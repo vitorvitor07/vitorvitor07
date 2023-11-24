@@ -1,6 +1,6 @@
 ### Olá pessoas! Eu sou o Vitor👨‍💻
 
-- 🔭 Atualmente trabalho como programador full stack na Krolik
+- 🔭 Atualmente trabalho como programador Full Stack Jr na Krolik
 - 🌱 Estou tendo em foque nos meus estudos em NodeJS, para a criação de APIs
 - 📘 Estudante no quarto período de Análise e Desenvolvimento de Sistemas
 - 🥰 Apaixonado por tecnologia
