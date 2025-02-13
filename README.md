@@ -2,9 +2,9 @@
 
 - 🔭 Atualmente trabalho como programador Full Stack na Krolik
 - 🌱 Estou tendo em foque nos meus estudos em NodeJS, para a criação de APIs
-- 📘 Estudante no quarto período de Análise e Desenvolvimento de Sistemas
+- 📘 Tecnólogo em Análise e Desenvolvimento de Sistemas
 - 🥰 Apaixonado por tecnologia
-<h1></h1>
+<h3>Algumas das tecnologias que sou familizarido 😁</h3>
 <div style="display: inline_block"><br>
   <img align="center" alt="Vitor-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">   
   <img align="center" alt="Vitor-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">   
