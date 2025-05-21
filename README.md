@@ -1,9 +1,9 @@
 ### Olá pessoas! Eu sou o Vitor👨‍💻
 
-- 🔭 Atualmente trabalho como programador Full Stack na Krolik
-- 🌱 Estou tendo em foque nos meus estudos em NestJS, para a criação de APIs escláveis e robustas
+- 🔭 Atualmente trabalho como Desenvolvedor Full Stack
+- 🌱 Em ampliação de conhecimento em NestJS, para a criação de APIs escláveis e robustas
 - 📘 Tecnólogo em Análise e Desenvolvimento de Sistemas
-- 🥰 Apaixonado por tecnologia
+- 🤓 Aficionado por tecnologia
 <h3>Tecnologias 🤖</h3>
 <div style="display: inline_block"><br>
   <img align="center" alt="Vitor-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
