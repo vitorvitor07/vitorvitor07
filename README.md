@@ -4,7 +4,7 @@
 - 🌱 Estou tendo em foque nos meus estudos em NestJS, para a criação de APIs escláveis e robustas
 - 📘 Tecnólogo em Análise e Desenvolvimento de Sistemas
 - 🥰 Apaixonado por tecnologia
-<h3>Algumas das tecnologias que sou familizarido 😁</h3>
+<h3>Tecnologias 🤖</h3>
 <div style="display: inline_block"><br>
   <img align="center" alt="Vitor-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
   <img align="center" alt="Vitor-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/nestjs/nestjs-original.svg">
