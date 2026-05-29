@@ -2,10 +2,10 @@
 
 Atualmente atuo como Desenvolvedor Backend, focado na criação de APIs escaláveis, integrações e automações de processos. Gosto de aplicar princípios como Clean Architecture e DDD para garantir a qualidade e manutenibilidade do código.
 
-🔭 Atualmente: Criando soluções robustas adaptadas a regras de negócio, webhooks e integrações de sistemas.
-🌱 Aprendendo: Aprofundando conhecimentos no ecossistema C# e .NET, além de aprimorar práticas de testes automatizados (Jest) e ambientes cloud.
-📘 Formação: Tecnólogo em Análise e Desenvolvimento de Sistemas (2024).
-🤓 Interesses: Aficionado por tecnologia, automação de fluxos e arquitetura de software.
+🔭 Atualmente: Criando soluções robustas adaptadas a regras de negócio, webhooks e integrações de sistemas.\n
+🌱 Aprendendo: Aprofundando conhecimentos no ecossistema C# e .NET, além de aprimorar práticas de testes automatizados (Jest) e ambientes cloud.\n
+📘 Formação: Tecnólogo em Análise e Desenvolvimento de Sistemas (2024).\n
+🤓 Interesses: Aficionado por tecnologia, automação de fluxos e arquitetura de software.\n
 
 <h3>Tecnologias e Ferramentas 🤖</h3>
 <div style="display: inline_block"><br>
