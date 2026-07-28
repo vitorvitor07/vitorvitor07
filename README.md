@@ -4,7 +4,7 @@ Atualmente atuo como Desenvolvedor Backend, focado na criação de APIs escaláv
 
 - 🔭 Agora: Criando soluções robustas adaptadas a regras de negócio, webhooks e integrações de sistemas.
 - 🌱 Aprendendo: Aprofundando conhecimentos no ecossistema C# e .NET, além de aprimorar práticas de testes automatizados (Jest) e ambientes cloud.
-- 📘 Formação: Tecnólogo em Análise e Desenvolvimento de Sistemas (2024).
+- 📘 Formação: Análise e Desenvolvimento de Sistemas (2024).
 - 🤓 Interesses: Aficionado por tecnologia, automação de fluxos e arquitetura de software.
 
 <h3>Tecnologias e Ferramentas 🤖</h3>
